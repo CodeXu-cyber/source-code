@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.List;
+
 /**
  * @ClassName MyLinkList
  * @Author xuwei
